@@ -43,6 +43,9 @@ The performance of the model is evaluated using two metrics: Mean Absolute Perce
 
 - **RMSPE (Root Mean Squared Percentage Error)**: This metric is similar to the MAPE but gives more weight to larger errors. The RMSPE for our model is 1.12%, which is also very low, indicating that the model performs well even when accounting for larger prediction errors.
 
+As we can see below, the histograms of estimated and actual values ​​also covers itself in general.
+![image](https://github.com/user-attachments/assets/3479404d-91ac-4995-bb8a-f8bb54589c7e)
+
 These metrics demonstrate that **the model has a high level of accuracy and reliability in predicting** the electrical energy output of the Combined Cycle Power Plant.
 
 ## Contributing
