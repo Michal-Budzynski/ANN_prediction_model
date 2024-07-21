@@ -1,6 +1,6 @@
-# Combined Cycle Power Plant Energy Output Prediction Model
+# Power Plant Energy Output Prediction Model
 
-This project aims to predict the electrical energy output of a Combined Cycle Power Plant using a machine learning model (Artificial Neural Networsk). The prediction is based on various environmental and operational factors.
+This project aims to predict the electrical energy output of a Combined Cycle Power Plant using a machine learning model (Artificial Neural Networks). The prediction is based on various environmental and operational factors.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
